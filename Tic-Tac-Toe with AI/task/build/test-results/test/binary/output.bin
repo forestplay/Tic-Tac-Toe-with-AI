@@ -1,0 +1,2426 @@
+[1;31m
+Start test 1[0m
+Input command: > start user easy
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 1 1
+	---------
+| _ _ _  |
+| _ _ _  |
+| X _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ _  |
+| _ O _  |
+| X _ _  |
+	---------
+Enter the coordinates: > 1 2
+	---------
+| _ _ _  |
+| X O _  |
+| X _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ O  |
+| X O _  |
+| X _ _  |
+	---------
+Enter the coordinates: > 1 3
+	---------
+| X _ O  |
+| X O _  |
+| X _ _  |
+	---------
+X wins
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 2[0m
+Input command: > start easy user
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 4 1
+"Coordinates should be from 1 to 3!
+Enter the coordinates: > 1 2
+	---------
+| _ _ _  |
+| O X _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ X  |
+| O X _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 1 3
+	---------
+| O _ X  |
+| O X _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| O X X  |
+| O X _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 2 1
+	---------
+| O X X  |
+| O X _  |
+| _ O _  |
+	---------
+Making move level "easy"
+	---------
+| O X X  |
+| O X _  |
+| X O _  |
+	---------
+X wins
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 4 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 4 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 4 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 4 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 4 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 4 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 4 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 4 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 3[0m
+Input command: > start user medium
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 1 3
+	---------
+| X _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| X _ _  |
+| _ O _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 2 1
+	---------
+| X _ _  |
+| _ O _  |
+| _ X _  |
+	---------
+Making move level "medium"
+	---------
+| X _ _  |
+| _ O O  |
+| _ X _  |
+	---------
+Enter the coordinates: > 2 2
+*This cell is occupied! Choose another one!
+Enter the coordinates: > 2 3
+	---------
+| X X _  |
+| _ O O  |
+| _ X _  |
+	---------
+Making move level "medium"
+	---------
+| X X _  |
+| O O O  |
+| _ X _  |
+	---------
+O wins
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 4[0m
+Input command: > start medium user
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 4 3
+"Coordinates should be from 1 to 3!
+Enter the coordinates: > 2 1
+	---------
+| _ _ _  |
+| _ X _  |
+| _ O _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ _  |
+| _ X X  |
+| _ O _  |
+	---------
+Enter the coordinates: > 2 2
+*This cell is occupied! Choose another one!
+Enter the coordinates: > 2 3
+	---------
+| _ O _  |
+| _ X X  |
+| _ O _  |
+	---------
+Making move level "medium"
+	---------
+| _ O _  |
+| X X X  |
+| _ O _  |
+	---------
+X wins
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 4 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 4 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 4 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 4 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 4 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 4 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 4 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 4 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 5[0m
+Input command: > start user hard
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 2 2
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ O _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 2 3
+*This cell is occupied! Choose another one!
+Enter the coordinates: > 3 1
+	---------
+| _ O _  |
+| _ X _  |
+| _ _ X  |
+	---------
+Making move level "hard"
+	---------
+| O O _  |
+| _ X _  |
+| _ _ X  |
+	---------
+Enter the coordinates: > 3 2
+	---------
+| O O _  |
+| _ X X  |
+| _ _ X  |
+	---------
+Making move level "hard"
+	---------
+| O O O  |
+| _ X X  |
+| _ _ X  |
+	---------
+O wins
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 6[0m
+Input command: > start hard user
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 4 5
+"Coordinates should be from 1 to 3!
+Enter the coordinates: > 2 3
+	---------
+| _ O _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ O _  |
+| _ X _  |
+| _ X _  |
+	---------
+Enter the coordinates: > 3 1
+	---------
+| _ O _  |
+| _ X _  |
+| _ X O  |
+	---------
+Making move level "hard"
+	---------
+| _ O _  |
+| _ X X  |
+| _ X O  |
+	---------
+Enter the coordinates: > 3 2
+*This cell is occupied! Choose another one!
+Enter the coordinates: > 3 3
+	---------
+| _ O O  |
+| _ X X  |
+| _ X O  |
+	---------
+Making move level "hard"
+	---------
+| _ O O  |
+| X X X  |
+| _ X O  |
+	---------
+X wins
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 4 5
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 4 5
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 4 5
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 4 5
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 4 5
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 4 5
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 4 5
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 4 5
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 7[0m
+Input command: > start user easy
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 3 1
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ X  |
+	---------
+Making move level "easy"
+	---------
+| _ _ _  |
+| _ O _  |
+| _ _ X  |
+	---------
+Enter the coordinates: > 3 2
+	---------
+| _ _ _  |
+| _ O X  |
+| _ _ X  |
+	---------
+Making move level "easy"
+	---------
+| _ _ _  |
+| _ O X  |
+| _ O X  |
+	---------
+Enter the coordinates: > 3 3
+	---------
+| _ _ X  |
+| _ O X  |
+| _ O X  |
+	---------
+X wins
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 8[0m
+Input command: > start easy user
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 4 7
+"Coordinates should be from 1 to 3!
+Enter the coordinates: > 3 2
+	---------
+| _ _ _  |
+| _ X O  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ X _  |
+| _ X O  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 3 3
+	---------
+| _ X O  |
+| _ X O  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ X O  |
+| _ X O  |
+| _ X _  |
+	---------
+X wins
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 4 7
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 4 7
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 4 7
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 4 7
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 4 7
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 4 7
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 4 7
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 4 7
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 9[0m
+Input command: > start user medium
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 3 3
+	---------
+| _ _ X  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ X  |
+| _ O _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 1 1
+	---------
+| _ _ X  |
+| _ O _  |
+| X _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ O X  |
+| _ O _  |
+| X _ _  |
+	---------
+Enter the coordinates: > 1 2
+	---------
+| _ O X  |
+| X O _  |
+| X _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ O X  |
+| X O _  |
+| X O _  |
+	---------
+O wins
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > 3 3
+Bad parameters!
+Input command: > 1 1
+Bad parameters!
+Input command: > 1 2
+Bad parameters!
+Input command: > 1 3
+Bad parameters!
+Input command: > 2 1
+Bad parameters!
+Input command: > 2 2
+Bad parameters!
+Input command: > 2 3
+Bad parameters!
+Input command: > 3 1
+Bad parameters!
+Input command: > 3 2
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 10[0m
+Input command: > start easy easy
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ O _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ O _  |
+| _ X _  |
+| _ X _  |
+	---------
+Making move level "easy"
+	---------
+| _ O _  |
+| _ X O  |
+| _ X _  |
+	---------
+Making move level "easy"
+	---------
+| _ O _  |
+| _ X O  |
+| _ X X  |
+	---------
+Making move level "easy"
+	---------
+| _ O _  |
+| _ X O  |
+| O X X  |
+	---------
+Making move level "easy"
+	---------
+| _ O _  |
+| X X O  |
+| O X X  |
+	---------
+Making move level "easy"
+	---------
+| _ O O  |
+| X X O  |
+| O X X  |
+	---------
+Making move level "easy"
+	---------
+| X O O  |
+| X X O  |
+| O X X  |
+	---------
+X wins
+Input command: > exit
+[1;31m
+Start test 11[0m
+Input command: > start medium medium
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ O  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ X O  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ X O  |
+| _ X _  |
+| _ O _  |
+	---------
+Making move level "medium"
+	---------
+| _ X O  |
+| X X _  |
+| _ O _  |
+	---------
+Making move level "medium"
+	---------
+| _ X O  |
+| X X O  |
+| _ O _  |
+	---------
+Making move level "medium"
+	---------
+| _ X O  |
+| X X O  |
+| _ O X  |
+	---------
+Making move level "medium"
+	---------
+| O X O  |
+| X X O  |
+| _ O X  |
+	---------
+Making move level "medium"
+	---------
+| O X O  |
+| X X O  |
+| X O X  |
+	---------
+Draw
+Input command: > exit
+[1;31m
+Start test 12[0m
+Input command: > start hard hard
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ _  |
+| _ X _  |
+| O _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ X  |
+| _ X _  |
+| O _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ X  |
+| _ X _  |
+| O O _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ X  |
+| _ X _  |
+| O O X  |
+	---------
+Making move level "hard"
+	---------
+| _ _ X  |
+| _ X O  |
+| O O X  |
+	---------
+Making move level "hard"
+	---------
+| X _ X  |
+| _ X O  |
+| O O X  |
+	---------
+X wins
+Input command: > exit
+[1;31m
+Start test 13[0m
+Input command: > start medium easy
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ O  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ X O  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| O X O  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| O X O  |
+| _ X _  |
+| _ X _  |
+	---------
+X wins
+Input command: > exit
+[1;31m
+Start test 14[0m
+Input command: > start easy medium
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ _  |
+| O X _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ X  |
+| O X _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ X  |
+| O X _  |
+| O _ _  |
+	---------
+Making move level "easy"
+	---------
+| X _ X  |
+| O X _  |
+| O _ _  |
+	---------
+Making move level "medium"
+	---------
+| X O X  |
+| O X _  |
+| O _ _  |
+	---------
+Making move level "easy"
+	---------
+| X O X  |
+| O X _  |
+| O _ X  |
+	---------
+X wins
+Input command: > exit
+[1;31m
+Start test 15[0m
+Input command: > start medium hard
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ _  |
+| _ X _  |
+| O _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ _ _  |
+| X X _  |
+| O _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ _  |
+| X X O  |
+| O _ _  |
+	---------
+Making move level "medium"
+	---------
+| _ X _  |
+| X X O  |
+| O _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ X _  |
+| X X O  |
+| O O _  |
+	---------
+Making move level "medium"
+	---------
+| _ X _  |
+| X X O  |
+| O O X  |
+	---------
+Making move level "hard"
+	---------
+| O X _  |
+| X X O  |
+| O O X  |
+	---------
+Making move level "medium"
+	---------
+| O X X  |
+| X X O  |
+| O O X  |
+	---------
+Draw
+Input command: > exit
+[1;31m
+Start test 16[0m
+Input command: > start hard medium
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| O _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| O X _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "medium"
+	---------
+| O X _  |
+| _ X _  |
+| _ O _  |
+	---------
+Making move level "hard"
+	---------
+| O X _  |
+| _ X _  |
+| X O _  |
+	---------
+Making move level "medium"
+	---------
+| O X O  |
+| _ X _  |
+| X O _  |
+	---------
+Making move level "hard"
+	---------
+| O X O  |
+| _ X _  |
+| X O X  |
+	---------
+Making move level "medium"
+	---------
+| O X O  |
+| O X _  |
+| X O X  |
+	---------
+Making move level "hard"
+	---------
+| O X O  |
+| O X X  |
+| X O X  |
+	---------
+Draw
+Input command: > exit
+[1;31m
+Start test 17[0m
+Input command: > start easy hard
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ O _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ O _  |
+| X X _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ O _  |
+| X X O  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ O X  |
+| X X O  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ O X  |
+| X X O  |
+| O _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ O X  |
+| X X O  |
+| O _ X  |
+	---------
+Making move level "hard"
+	---------
+| O O X  |
+| X X O  |
+| O _ X  |
+	---------
+Making move level "easy"
+	---------
+| O O X  |
+| X X O  |
+| O X X  |
+	---------
+Draw
+Input command: > exit
+[1;31m
+Start test 18[0m
+Input command: > start hard easy
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ _ _  |
+| _ X _  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ _ _  |
+| _ X O  |
+| _ _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ X _  |
+| _ X O  |
+| _ _ _  |
+	---------
+Making move level "easy"
+	---------
+| _ X _  |
+| _ X O  |
+| O _ _  |
+	---------
+Making move level "hard"
+	---------
+| _ X _  |
+| _ X O  |
+| O X _  |
+	---------
+X wins
+Input command: > exit
+[1;31m
+Start test 19[0m
+Input command: > start user user
+	---------
+| _ _ _  |
+| _ _ _  |
+| _ _ _  |
+	---------
+Enter the coordinates: > 1 1
+	---------
+| _ _ _  |
+| _ _ _  |
+| X _ _  |
+	---------
+Enter the coordinates: > 2 2
+	---------
+| _ _ _  |
+| _ O _  |
+| X _ _  |
+	---------
+Enter the coordinates: > 1 2
+	---------
+| _ _ _  |
+| X O _  |
+| X _ _  |
+	---------
+Enter the coordinates: > 2 1
+	---------
+| _ _ _  |
+| X O _  |
+| X O _  |
+	---------
+Enter the coordinates: > 1 3
+	---------
+| X _ _  |
+| X O _  |
+| X O _  |
+	---------
+X wins
+Input command: > exit
